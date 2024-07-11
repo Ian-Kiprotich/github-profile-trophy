@@ -58,7 +58,7 @@ Add optional parameter of the theme.
 
 **[More detail](#apply-theme)**
 
-# About Rank
+# About Ranks
 
 Ranks are `SSS` `SS` `S` `AAA` `AA` `A` `B` `C` `UNKNOWN` `SECRET`.
 
